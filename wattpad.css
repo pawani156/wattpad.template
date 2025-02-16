@@ -1,0 +1,48 @@
+body{
+    background-color:white;
+    color: orangered;
+}
+.contanier{
+    height: 100vh;
+}
+.leftbox{
+    width: 45%;
+    height: 600px;
+    position: relative;
+    left: 70px;
+    right: 60px;
+    top: 120px;
+}
+.leftbox img{
+    margin-left: 70x;
+    margin-right: 20px;
+}
+.rightbox{
+    width: 40%;
+    height: 600px;
+    position: absolute;
+    left: 50%;
+    top: 60px;
+}
+.rightbox h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+h1 span{
+    color: black;
+    font-size: 30px;
+}
+.rightbox p{
+    font-size: 20px;
+    line-height: 40px;
+    font-family: sans-serif;
+    text-align: justify;
+    color: darkgray;
+}
+.rightbox button{
+    font-size: 25px;
+    font-family: sans-serif;
+    padding: 20px;
+    color: white;
+background-color: orangered;}
+

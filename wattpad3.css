@@ -1,0 +1,36 @@
+h1{
+    position: relative;
+    left: 5%;
+
+}
+.box1
+    {
+      width:400px;
+      height: 400px; 
+    position: relative;
+text-align: center;
+left: 25px ;
+top:15% ;}
+
+
+
+.box2{
+    width:400px;
+    height: 400px;  
+    position: absolute;
+    left: 500px;
+    top: 9%;
+    text-align: center;
+
+}
+.box3{
+    width:400px;
+    height: 400px;
+    position: absolute;
+    left: 900px;
+    top: 9%;
+    text-align: center;
+}
+h2{
+    color: rgb(110, 110, 185);
+}

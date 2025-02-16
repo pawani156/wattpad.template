@@ -1,0 +1,41 @@
+body{
+        background: url("Screenshot 2025-02-15 at 11-07-31 WATTPAD.png") no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 100vh;
+    }
+    .container{
+        background-color: rgb(245, 241, 241);
+        
+        border: 1px solid white;
+        width: 350px;
+        height: 500px;
+        margin: auto;
+        border-radius: 40px;
+        color: orangered;
+        position: relative;
+        top: 20%;
+        
+    }
+    button{
+        position:relative;
+        left: 30%;
+        right: 30%;
+        border-radius: 15px;
+        background-color: white;
+        color: orangered;
+        text-align: center;
+        padding: 10px;
+    }
+    p{
+        text-align: center;
+    }
+h1{ 
+    text-align: center;
+}
+a{
+    position: relative;
+    color: orangered;
+    left: 25%;
+text-align: center;
+}
